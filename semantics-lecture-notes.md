@@ -1,4 +1,4 @@
-
+[Slides from lecture.](https://docs.google.com/presentation/d/1flOZ-zI8vZEk9apOBiDpb14Yv_6uQnT_DlQ4JEgN5GE/edit?usp=sharing)
 ### Code-a-Long - Our Landing Page Mockup
 
 <img src="https://github.com/The-Marcy-Lab-School/Fall-2022-Curriculum-BMC/blob/main/se-unit-1/lesson-0-semantics/images/div-boxes.gif?raw=true" alt="drawing" width="600"/>
