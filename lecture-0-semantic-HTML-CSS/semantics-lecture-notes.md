@@ -1,3 +1,5 @@
+[Video from todays lecture.](https://us02web.zoom.us/rec/share/dkWPdlvkYJpYedce1Xm2eweyaWmQcT_K8fbIbnp-7BDZBgldH9mIweDXJyQ2YXWk.VsP5dEBY1VzPXcSU?startTime=1664809268000)
+
 [Slides from lecture.](https://docs.google.com/presentation/d/1flOZ-zI8vZEk9apOBiDpb14Yv_6uQnT_DlQ4JEgN5GE/edit?usp=sharing)
 ### Code-a-Long - Our Landing Page Mockup
 
